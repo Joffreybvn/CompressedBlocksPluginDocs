@@ -10,6 +10,15 @@ What is Compressed Blocks ?
 ---------------------------
 This is a plugin that allow players to compress and uncompress blocks like Stone, Cobblestone, Woods, and many others. Don't waste space anymore, compress your blocks !
 
+
+Features
+--------
+ -
+
+.. image:: images/github_logo.png
+   :align: center
+.. centered:: Compressed Blocks is open source and hosted on GitHub. Feel free to fork, star, or contribute the project by making pull requests and opening issues.
+
 .. toctree::
    :maxdepth: 2
    :caption: Server Admin documentation
