@@ -1,8 +1,11 @@
 Permissions
 ===========
 
+**Important note:** This plugin handle compatibility nodes, in order to be compatible with as many permission's plugin as possible. That's why some nodes are duplicated, like **compressedblocks.\*** and **compressedblocks.all**. Theses permissions have the same effect, and you don't need to add both. Simply write the one designed for you permission plugin.
+
 General
 -------
+
 By default, the general permissions are not given.
 
 ====================  =======  ===================================================
@@ -21,12 +24,12 @@ By default, the command permission is given to OP. By this way, the command.give
 Permission Node                Default  Description
 =============================  =======  ===========================================================================
 compressedblocks.command       OP       Give all child commands permissions
-compressedblocks.command.*     False    Compatibility Node. Same as **compressedblocks.command**
-compressedblocks.command.all   False    Compatibility Node. Same as **compressedblocks.command**
+compressedblocks.command.*     False    **Compatibility Node**. Same as above.
+compressedblocks.command.all   False    **Compatibility Node**. Same as above.
 -----------------------------  -------  ---------------------------------------------------------------------------
 -----------------------------  -------  ---------------------------------------------------------------------------
-compressedblocks.command.give  False    Allow to give compressed blocks to you and other players with **/cb give**.
-compressedblocks.command.info  False    Allow to get general information about the plugin with **/cb info**.
+compressedblocks.command.give  False    Allow to give compressed blocks to you and other players.
+compressedblocks.command.info  False    Allow to get general information about the plugin.
 =============================  =======  ===========================================================================
 
 Compressing
@@ -38,8 +41,8 @@ A player must have a compressing permission (of a specific block or of all block
 Permission Node                         Default  Description
 ======================================  =======  =========================================================
 compressedblocks.compress               False    Allow to compressed all kind of blocks
-compressedblocks.compress.*             False    Compatibility Node. Same as **compressedblocks.compress**
-compressedblocks.compress.all           False    Compatibility Node. Same as **compressedblocks.compress**
+compressedblocks.compress.*             False    **Compatibility Node**. Same as above.
+compressedblocks.compress.all           False    **Compatibility Node**. Same as above.
 --------------------------------------  -------  ---------------------------------------------------------
 --------------------------------------  -------  ---------------------------------------------------------
 compressedblocks.compress.oakwood       False    Allow to compressed Oak Wood (Logs)
@@ -77,3 +80,46 @@ compressedblocks.compress.netherrack    False    Allow to compressed Netherrack
 
 Uncompressing
 -------------
+
+The uncompressing nodes are the same than the compressing one. Just replace **compressing**  by **uncompressing**.
+
+========================================  =======  ========================================
+Permission Node                           Default  Description
+========================================  =======  ========================================
+compressedblocks.uncompress               False    Allow to uncompressed all kind of blocks
+compressedblocks.uncompress.*             False    **Compatibility Node**. Same as above.
+compressedblocks.uncompress.all           False    **Compatibility Node**. Same as above.
+----------------------------------------  -------  ----------------------------------------
+----------------------------------------  -------  ----------------------------------------
+compressedblocks.uncompress.oakwood       False    Allow to uncompress Oak Wood
+compressedblocks.uncompress.sprucewood    False    Allow to uncompress Spruce Wood
+compressedblocks.uncompress.birchwood     False    Allow to uncompress Birch Wood
+compressedblocks.uncompress.junglewood    False    Allow to uncompress Jungle Wood
+compressedblocks.uncompress.acaciawood    False    Allow to uncompress Acacia Wood
+compressedblocks.uncompress.darkoakwood   False    Allow to uncompress Dark Oak Wood
+----------------------------------------  -------  ----------------------------------------
+----------------------------------------  -------  ----------------------------------------
+compressedblocks.uncompress.oakplank      False    Allow to uncompress Oak Plank
+compressedblocks.uncompress.spruceplank   False    Allow to uncompress Spruce Plank
+compressedblocks.uncompress.birchplank    False    Allow to uncompress Birch Plank
+compressedblocks.uncompress.jungleplank   False    Allow to uncompress Jungle Plank
+compressedblocks.uncompress.acaciaplank   False    Allow to uncompress Acacia Plank
+compressedblocks.uncompress.darkoakplank  False    Allow to uncompress Dark Oak Plank
+----------------------------------------  -------  ----------------------------------------
+----------------------------------------  -------  ----------------------------------------
+compressedblocks.uncompress.gravel        False    Allow to uncompress Gravel
+compressedblocks.uncompress.sand          False    Allow to uncompress Sand
+compressedblocks.uncompress.redsand       False    Allow to uncompress Red Sand
+----------------------------------------  -------  ----------------------------------------
+----------------------------------------  -------  ----------------------------------------
+compressedblocks.uncompress.stone         False    Allow to uncompress Stone
+compressedblocks.uncompress.granite       False    Allow to uncompress Granite
+compressedblocks.uncompress.diorite       False    Allow to uncompress Diorite
+compressedblocks.uncompress.andesite      False    Allow to uncompress Andesite
+----------------------------------------  -------  ----------------------------------------
+----------------------------------------  -------  ----------------------------------------
+compressedblocks.uncompress.dirt          False    Allow to uncompress Dirt
+compressedblocks.uncompress.cobblestone   False    Allow to uncompress Cobblestone
+compressedblocks.uncompress.soulsand      False    Allow to uncompress Soul Sand
+compressedblocks.uncompress.netherrack    False    Allow to uncompress Netherrack
+========================================  =======  ========================================
