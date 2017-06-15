@@ -10,25 +10,31 @@ What is Compressed Blocks ?
 ---------------------------
 This is a plugin that allow players to compress and uncompress blocks like Stone, Cobblestone, Woods, and many others. Don't waste space anymore, compress your blocks !
 
+Get latest release
+------------------
+|  Latest release for **CraftBukkit** and **Spigot** version **1.11.x**: `Direct link <https://github.com/Joffrey4/CompressedBlocksPlugin/releases/download/1.11.2-1.4/CompressedBlocksPlugin-1.11.2-2.0.jar>`_.
+|  Detailed information's and other releases are available on the `Download Page <download.html>`_.
 
 Features
 --------
- -
-
-.. image:: images/github_logo.png
-   :align: center
-.. centered:: Compressed Blocks is open source and hosted on GitHub. Feel free to fork, star, or contribute the project by making pull requests and opening issues.
+The complete feature list and the list of the compressible blocks, are available on the `Features Page <features.html>`_.
+ - Compress lots of blocks (Cobblestone, Wood, Dirt, Sand, ...).
+ - One compressed block = 9 normal blocks.
+ - Uncompress these blocks thought your inventory, or a crafting table.
+ - Save space in your chests.
+ - Travel with more stuff in your pockets.
+ - Give compressed blocks to players (for OP).
 
 .. toctree::
    :maxdepth: 2
    :caption: Server Admin documentation
 
-   features
-   download
+   functionalities
+   Download <download>
    commands
    permissions
    configuration
-   updater
+   issues
 
 .. toctree::
    :maxdepth: 2
