@@ -17,7 +17,7 @@ Get latest release
 
 Features
 --------
-The complete feature list and the list of the compressible blocks, are available on the `Features Page <features.html>`_.
+General `features <features.html>`_ of the plugin:
  - Compress lots of blocks (Cobblestone, Wood, Dirt, Sand, ...).
  - One compressed block = 9 normal blocks.
  - Uncompress these blocks thought your inventory, or a crafting table.
@@ -25,11 +25,17 @@ The complete feature list and the list of the compressible blocks, are available
  - Travel with more stuff in your pockets.
  - Give compressed blocks to players (for OP).
 
+.. image:: images/github_logo.png
+   :height: 83
+   :width: 200
+   :align: center
+.. centered:: Compressed Blocks is open source and hosted on GitHub. Feel free to fork, star, or contribute the project by making pull requests and opening issues.
+
 .. toctree::
    :maxdepth: 2
    :caption: Server Admin documentation
 
-   functionalities
+   features
    Download <download>
    commands
    permissions
@@ -39,3 +45,8 @@ The complete feature list and the list of the compressible blocks, are available
 .. toctree::
    :maxdepth: 2
    :caption: Player documentation
+
+   compress
+   uncompress
+   placing
+   faq

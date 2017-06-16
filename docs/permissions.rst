@@ -1,7 +1,7 @@
 Permissions
 ===========
 
-.. warning:: This plugin handle compatibility nodes, in order to be compatible with as many permission's plugin as possible. That's why some nodes are duplicated, like **compressedblocks.\*** and **compressedblocks.all**. Theses permissions have the same effect, and you don't need to add both. Simply write the one designed for you permission plugin.
+.. warning:: This plugin handle compatibility nodes, in order to be compatible with as many permission's plugin as possible. That's why some nodes are duplicated, like **compressedblocks.\*** and **compressedblocks.all**. Theses permissions have the same effect, and you don't need to add both. Simply write the one designed for your plugin.
 
 General
 -------
@@ -35,7 +35,7 @@ compressedblocks.command.info  False    Allow to get general information about t
 Compressing
 -----------
 
-A player must have a compressing permission (of a specific block or of all blocks) to be able to compress. Players that have not the compressing permission can still receive compressed blocks by the **/cb give** command.
+A player must have a compressing permission (of a specific block or of all blocks) to be able to compress. Players that have not the compressing permission can still receive compressed blocks with the **/cb give** command.
 
 ======================================  =======  =========================================================
 Permission Node                         Default  Description

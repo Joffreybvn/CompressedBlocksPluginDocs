@@ -14,10 +14,10 @@ You can personalize the lores of the compressed blocks. When **lore.usecommon** 
 
     lore:
       usecommon: true
-        common:
-          - "I'm packing and amount"
-          - "of 9 &type !"
-          - "Isn't that cool ?"
+      common:
+        - "I'm packing and amount"
+        - "of 9 &type !"
+        - "Isn't that cool ?"
 
 The **&type** is automatically replaced by the type of the block. Ex: Compressed Stone type is ‘Stone’.
 
@@ -46,8 +46,8 @@ Textures
 
 You can personalize the textures of the compressed blocks by following `this tutorial <https://bukkit.org/threads/create-your-own-custom-head-texture.424286/>`_. It will teach you how to create and upload your texture file to `http://minecraft.net <http://minecraft.net>`_. Because in the configuration file, the code next to each block is a part of the link of a picture uploaded to `http://minecraft.net <http://minecraft.net>`_.
 
-|   Once you have followed the tutorial, you got a link similar to this::
+Once you have followed the tutorial, you got a link similar to this::
 
-    http://textures.minecraft.net/texture/**b79bd6534a7d9def47aa7ccc52b330f454520eb18dbaf6959ff1ba8f4c03**
+    http://textures.minecraft.net/texture/b79bd6534a7d9def47aa7ccc52b330f454520eb18dbaf
 
-Simply copy the code of the picture (here in **bold**) into the configuration file.
+Simply copy the code of the picture into the configuration file.
