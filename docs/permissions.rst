@@ -1,7 +1,7 @@
 Permissions
 ===========
 
-**Important note:** This plugin handle compatibility nodes, in order to be compatible with as many permission's plugin as possible. That's why some nodes are duplicated, like **compressedblocks.\*** and **compressedblocks.all**. Theses permissions have the same effect, and you don't need to add both. Simply write the one designed for you permission plugin.
+.. warning:: This plugin handle compatibility nodes, in order to be compatible with as many permission's plugin as possible. That's why some nodes are duplicated, like **compressedblocks.\*** and **compressedblocks.all**. Theses permissions have the same effect, and you don't need to add both. Simply write the one designed for you permission plugin.
 
 General
 -------
@@ -28,7 +28,7 @@ compressedblocks.command.*     False    **Compatibility Node**. Same as above.
 compressedblocks.command.all   False    **Compatibility Node**. Same as above.
 -----------------------------  -------  ---------------------------------------------------------------------------
 -----------------------------  -------  ---------------------------------------------------------------------------
-compressedblocks.command.give  False    Allow to give compressed blocks to you and other players.
+compressedblocks.command.give  False    Allow to give compressed blocks to players.
 compressedblocks.command.info  False    Allow to get general information about the plugin.
 =============================  =======  ===========================================================================
 
@@ -81,7 +81,7 @@ compressedblocks.compress.netherrack    False    Allow to compressed Netherrack
 Uncompressing
 -------------
 
-The uncompressing nodes are the same than the compressing one. Just replace **compressing**  by **uncompressing**.
+The uncompressing nodes are the same than the compressing one. Just replace **compress**  by **uncompress**. A player must have an uncompressing permission (of a specific block or of all blocks) to be able to uncompress.
 
 ========================================  =======  ========================================
 Permission Node                           Default  Description

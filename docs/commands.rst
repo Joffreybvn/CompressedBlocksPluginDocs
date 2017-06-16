@@ -24,8 +24,9 @@ All of this commands can be executed by a player, from the console, and with a c
 
 The give command
 ----------------
-|   This plugin injects special metadata into the skull (head) blocks. It helps to recognize it, and avoid these blocks to be created in any other way than by crafting it. Event the Essentials' /give command can not create a compressed block.
-|   That's why the **/cb give** command exists. And here is some useful information about its fields:
+This plugin injects special metadata into the skull (head) blocks. It helps to recognize it, and avoid these blocks to be created in any other way than by crafting it. Event the Essentials' /give command can not create a compressed block.
+|
+That's why the **/cb give** command exists. And here is some useful information about its fields:
 
 .. centered:: /cb give <player> <block> [amount]
 
