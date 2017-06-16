@@ -1,4 +1,4 @@
-Functionalities
-===============
+Features
+========
 
 Hi

@@ -1,2 +1,2 @@
-Block uncompressing
-===================
+How to uncompress a block
+=========================

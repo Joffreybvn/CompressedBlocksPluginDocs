@@ -1,2 +1,2 @@
-Block compressing
-=================
+How to compress some blocks
+===========================

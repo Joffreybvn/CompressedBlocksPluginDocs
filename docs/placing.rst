@@ -1,2 +1,2 @@
-Block placing
-=============
+Block placing and destroying
+============================
