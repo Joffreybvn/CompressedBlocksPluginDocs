@@ -8,6 +8,7 @@ This plugin works only on multiplayer, and has been tested on servers equipped w
 Download
 --------
 Latest release (2.0): `Direct link <https://github.com/Joffrey4/CompressedBlocksPlugin/releases/download/1.11.2-1.4/CompressedBlocksPlugin-1.11.2-2.0.jar>`_.
+
 You can also download this plugin from `Bukkit <https://dev.bukkit.org/projects/compressed-blocks-plugin>`_ and `Spigot <https://www.spigotmc.org/resources/compressed-blocks-plugin.41308/>`_.
 
 Installation

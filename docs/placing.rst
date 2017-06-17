@@ -11,4 +11,4 @@ But, if you break one, you don't get back a compressed block: You got a random s
 .. image:: images/gif_5_6.gif
    :align: center
 
-Currently, there's no way to get back a destroyed compressed block. But this functionality could be added in a future version.
+Currently, there's no way to get back a compressed block. But this functionality could be added in a future version.

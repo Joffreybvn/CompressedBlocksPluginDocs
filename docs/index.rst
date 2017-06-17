@@ -6,6 +6,9 @@
 Welcome to Compressed Blocks Plugin !
 =====================================
 
+.. image:: images/image_7.png
+   :align: center
+
 What is Compressed Blocks ?
 ---------------------------
 This is a plugin that allow players to compress and uncompress blocks like Stone, Cobblestone, Woods, and many others. Don't waste space anymore, compress your blocks !
@@ -18,12 +21,15 @@ Get latest release
 Features
 --------
 General `features <features.html>`_ of the plugin:
- - Compress lots of blocks (Cobblestone, Wood, Dirt, Sand, ...).
- - One compressed block = 9 normal blocks.
- - Uncompress these blocks by your inventory, or a crafting table.
+
+ - Compress lots of blocks (Cobblestone, Wood, Dirst, Sand, ...).
+ - One compressed block stores 9 normal blocks.
+ - Uncompress these blocks in your inventory, or a crafting table.
  - Save space in your chests.
  - Travel with more stuff in your pockets.
- - Give compressed blocks to players with a command.
+ - Be ready for big blocks' transactions
+ - Give compressed blocks to players with a `command <commands.html>`_.
+ - Use it as decorative for your constructions
 
 .. image:: images/github_logo.png
    :height: 83
@@ -43,7 +49,7 @@ General `features <features.html>`_ of the plugin:
    Bug & issues <issues>
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Player documentation
 
    Compress <compress>
