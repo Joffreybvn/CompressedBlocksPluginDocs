@@ -20,16 +20,16 @@ Features
 General `features <features.html>`_ of the plugin:
  - Compress lots of blocks (Cobblestone, Wood, Dirt, Sand, ...).
  - One compressed block = 9 normal blocks.
- - Uncompress these blocks thought your inventory, or a crafting table.
+ - Uncompress these blocks by your inventory, or a crafting table.
  - Save space in your chests.
  - Travel with more stuff in your pockets.
- - Give compressed blocks to players (for OP).
+ - Give compressed blocks to players with a command.
 
 .. image:: images/github_logo.png
    :height: 83
    :width: 200
    :align: center
-.. centered:: Compressed Blocks is open source and hosted on GitHub. Feel free to fork, star, or contribute the project by making pull requests and opening issues. `Get on Github <https://github.com/Joffrey4/CompressedBlocksPlugin>`_.
+.. centered:: Compressed Blocks is open source and hosted on GitHub. Feel free to fork, star, or contribute the project by making pull requests and opening issues. `Get on it Github <https://github.com/Joffrey4/CompressedBlocksPlugin>`_.
 
 .. toctree::
    :maxdepth: 2
