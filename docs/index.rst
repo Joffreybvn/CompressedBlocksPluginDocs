@@ -15,7 +15,7 @@ This is a plugin that allow players to compress and uncompress blocks like Stone
 
 Get latest release
 ------------------
-|  Latest release for **CraftBukkit** and **Spigot** version **1.11.x**: `Direct link <https://github.com/Joffrey4/CompressedBlocksPlugin/releases/download/1.11.2-1.4/CompressedBlocksPlugin-1.11.2-2.0.jar>`_.
+|  Latest release for **CraftBukkit** and **Spigot** version **1.11.x to 1.12**: `Direct link <https://github.com/Joffrey4/CompressedBlocksPlugin/releases/download/2.1/CompressedBlocksPlugin.jar>`_.
 |  Detailed information's and other releases are available on the `Download Page <download.html>`_.
 
 Features

@@ -1,6 +1,10 @@
 Changelogs
 ==========
 
+Version 2.1
+-----------
+The plugin is now fully compatible with CraftBukkit & Spigot 1.11.x to 1.12.
+
 Version 2.0
 -----------
 The blocks created in the previous versions (1.x) are not compatible anymore with the 2.0. Before upgrade, you need to uncompress your blocks.
